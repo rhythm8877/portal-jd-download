@@ -1,0 +1,5 @@
+node_modules/
+user_data/
+playwright_profile/
+.DS_Store
+*.log
